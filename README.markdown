@@ -10,4 +10,4 @@ You will probably need to update acronyms.json from http://bigbookofacronyms.her
 Usage
 -----
 
-AcronymFinder.new("This is AAC").html will output 'This is <abbr title="Administrative Appeals Court">AAC</abbr>''
+    AcronymFinder.new("This is AAC").html will output 'This is <abbr title="Administrative Appeals Court">AAC</abbr>''
